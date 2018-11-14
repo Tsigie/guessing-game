@@ -23,7 +23,7 @@ for(var i = 0; i < squeres.length; i++) {
       messageDisplay.textContent = "correct!";
     } else {
       this.background = "#232323";
-      messageDisplay.textContent = "Try Again";
+      messageDisplay.textContent = "Let's Try Again";
     }
   });
 }
